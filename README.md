@@ -5,7 +5,7 @@ I'm a Master's student in Information Systems at UMD, passionate about data scie
 
 ## 📌 Featured Projects
 
-### 🔹 [Personal Agent](https://github.com/your-username/personal-agent)
+### 🔹 [Personal Agent](https://github.com/DhruvVaghani/Personal_agent)
 > A LangChain-based multi-agent chatbot that answers questions about me using data from LinkedIn, GitHub, and Medium.
 
 - 🧠 Built with LangChain, OpenAI GPT-4o, and Streamlit
@@ -17,7 +17,7 @@ I'm a Master's student in Information Systems at UMD, passionate about data scie
 
 ---
 
-### 🔹 [BTC Price Forecasting System](https://github.com/your-username/btc-forecasting)
+### 🔹 [BTC Price Forecasting System](https://github.com/DhruvVaghani/BTC_Predictions_Clean)
 > Real-time Bitcoin price forecasting using LSTM, Azure Functions, Databricks, and Power BI dashboard.
 
 - ⛅ Serverless ETL pipeline using Azure Functions + Blob Storage
