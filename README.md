@@ -10,21 +10,22 @@ I'm a Master's student in Information Systems at UMD, passionate about data scie
 
 - 🧠 Built with LangChain, OpenAI GPT-4o, and Streamlit
 - 🔗 Uses Proxycurl, Firecrawl, and custom API wrappers
-- 💾 Includes memory, voice interaction, and multi-agent orchestration
-- 🌐 [Live Demo](https://your-app-link.com) | 📄 [Medium Article](https://medium.com/your-post)
+- 💾 Includes memory, authentication and multi-agent orchestration
+- 🌐 [Live Demo](https://personalagent-6bxcakdbfhwqtfredwh36w.streamlit.app/) | 📄 [Medium Article](https://medium.com/your-post)
 
-**Tech Stack:** `LangChain` `Python` `Streamlit` `OpenAI` `Supabase` `Proxycurl` `Firecrawl`
+**Tech Stack:** `LangChain` `LangGraph` `Python` `Streamlit` `OpenAI` `Supabase` `Proxycurl` `Firecrawl`
 
 ---
 
 ### 🔹 [BTC Price Forecasting System](https://github.com/DhruvVaghani/BTC_Predictions_Clean)
 > Real-time Bitcoin price forecasting using LSTM, Azure Functions, Databricks, and Power BI dashboard.
 
-- ⛅ Serverless ETL pipeline using Azure Functions + Blob Storage
+- ⛅ Serverless ETL pipeline using Azure Functions + Azure SQL Storage
 - 📈 LSTM model trained in Azure Databricks with data from Alpha Vantage
-- 📊 Power BI dashboard for visualization and live querying
-
-**Tech Stack:** `Azure` `Databricks` `LSTM` `Power BI` `Python` `SQL` `Blob Storage`
+- 📊 Power BI dashboard for live visualization and live querying
+- 📄 [Medium Article](https://medium.com/@dhruvvaghani5356/lets-predict-the-btc-price-3a8b2db8ee7e)
+  
+**Tech Stack:** `AzureFunctions` `Databricks` `LSTM` `Power BI` `Python` `Azure SQL` `Azure Blob Storage`
 
 ---
 
@@ -62,7 +63,7 @@ I'm a Master's student in Information Systems at UMD, passionate about data scie
 **Tech Stack:** `Python` `Pandas` `scikit-learn` `XGBoost` `Matplotlib` `Seaborn`
 
 ---
-### 🔹 [Weather Data Check – AWS Automation](https://github.com/DhruvVaghani/AWS-Check_Weather_every_hour)  
+### 🔹 [AWS-Check_Weather_every_hour ](https://github.com/DhruvVaghani/AWS-Check_Weather_every_hour)  
 > Serverless AWS pipeline to fetch weather data every hour using automation and storage services.
 
 - ☁️ Built a Lambda function to trigger weather API requests every hour  
@@ -77,12 +78,12 @@ I'm a Master's student in Information Systems at UMD, passionate about data scie
 ### 🔹 [Spotify Data Pipeline – AWS & Snowflake](https://github.com/DhruvVaghani/AWS-Spotify-data-pipeline)  
 > Real-time data engineering pipeline to stream Spotify data using serverless AWS components and Snowflake.
 
-- 🎧 Extracted track & artist data from Spotify API using Lambda  
+
 - ⛅ Stored raw and transformed data on S3, integrated with Snowflake  
 - ⚙️ Leveraged DynamoDB Streams and AWS Lambda for data processing  
 - 📊 Enabled scalable analysis of streaming trends and metadata
 
-**Tech Stack:** `AWS Lambda` `DynamoDB` `S3` `Snowflake` `Python` `Spotify API`
+**Tech Stack:** `AWS Lambda` `DynamoDB` `S3` `Snowflake` `Python` 
 
 ----
 
@@ -108,14 +109,48 @@ I'm a Master's student in Information Systems at UMD, passionate about data scie
 
 **Tech Stack:** `Python` `Pandas` `Power BI` `Matplotlib` `Seaborn`
 
+---
+### 🔹 [Celebrity Chatbot](https://github.com/DhruvVaghani/celebrity-chatbot)  
+> An interactive chatbot that answers questions about celebrities and major events around their birth date using LangChain and OpenAI.
+
+- 🎤 Used LangChain to parse natural language queries about celebrities  
+- 🧠 Integrated Firecrawl and external APIs to fetch and synthesize event data  
+- 💬 Answered questions like “What happened around Taylor Swift’s birth date?” in natural language  
+- 🚀 Built an engaging user experience with Streamlit interface  
+
+**Tech Stack:** `LangChain` `OpenAI` `Firecrawl` `Python` `Streamlit`
+
+
+---
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **[Winner – AGA National DataThon](https://www.agacgfm.org/Events/Datathon/Attendee-Code-of-Conduct.aspx)**  
+  Led the development of a machine learning model for executive compensation prediction, achieving top performance among nationwide entries.
+
+- ☁️ **[AWS Certified Data Engineer – Associate](https://www.credly.com/badges/de58ae00-bf88-4e62-89b4-51f0bd9d6d18)**  
+  Validated expertise in building data pipelines, managing data lakes, and optimizing storage and compute performance using AWS services.
+
+- 📜 **[Complete Guide to R: Wrangling, Visualizing, and Modeling Data](https://www.linkedin.com/learning/certificates/385ba96308c33aaa4e6b62488915eb506132433283014776ff9c73087ae9bb99?accountId=41910388&u=41910388&success=true&authUUID=R2vYNEyaT66dpnr6%2Faz4uQ%3D%3D)** – *LinkedIn Learning*  
+  Learned data manipulation, statistical modeling, and data visualization techniques using the R programming language.
+
+- 🧠 **[SQL 50 Badge – LeetCode](https://leetcode.com/u/DhruvVaghanii/)**  
+  Earned for completing 50 curated SQL challenges, demonstrating proficiency in query design, joins, aggregations, and window functions.
+
+
+- 🏅 **Letters of Appreciation** – *Google Developers Club @ KJSIT*  
+  Recognized for outstanding contributions in organizing bootcamps, design competitions, and increasing club engagement by 9%.
 
 ---
 
+
+---
 ## 📫 Contact Me
 
 I'm always open to collaboration, feedback, or just a good data conversation. Feel free to connect!
 
-- 📧 Email: dhruvvaghani2601@gmail.com  
+- 📧 Email: dhruvvaghani5356@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/dhruv-vaghani](https://www.linkedin.com/in/dhruv-vaghani/)  
 - 🌐 GitHub: [github.com/DhruvVaghani](https://github.com/DhruvVaghani)
 
